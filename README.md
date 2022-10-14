@@ -3,8 +3,7 @@
 
 
 Implementation of _MetaSieve_ algorithm.
-(For "<i>MetaSieve</i>: Performance vs. Complexity Sieve for Time Series Forecasting" <a href=https://qizhiquan.github.io/ICDM-Workshop/OEDM-22/index.html> ('OEDM'
-of the IEEE International Conference on Data Mining (ICDM'22))</a>.
+(For "<i>MetaSieve</i>: Performance vs. Complexity Sieve for Time Series Forecasting" <a href=https://qizhiquan.github.io/ICDM-Workshop/OEDM-22/index.html> (OEDM workshop of the IEEE International Conference on Data Mining (ICDM'22))</a>.
 
 
 
